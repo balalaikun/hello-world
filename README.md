@@ -1,4 +1,4 @@
 # hello-world
 testing
 OK, just following the tutorial...
-Test merging conflict
+So this is result of merge
